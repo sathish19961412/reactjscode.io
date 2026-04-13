@@ -1,7 +1,8 @@
+
 .card
 {
     background-color: beige;
-    width: 200px;
+    width: 150px;
     border: 1px solid #000;
     border-radius: 5px;
     font-family: sans-serif;
@@ -12,6 +13,6 @@
 }
 .card img
 {
-    width:200px;
+    width:100px;
     height:auto;
 }

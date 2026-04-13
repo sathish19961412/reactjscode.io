@@ -1,0 +1,36 @@
+{
+"course":[
+    {
+        "id":1,
+        "name":"Html",
+        "description":"Html Developer",
+        "price":199,
+        "img":"http://localhost:3000/assets/html.png",
+        "rating":4
+    },
+     {
+        "id":2,
+        "name":"Css",
+        "description":"Css Developer",
+        "price":179,
+        "img":"http://localhost:3000/assets/css.png",
+        "rating":4
+    },
+    {
+        "id":3,
+        "name":"Js",
+        "description":"Js Developer",
+        "price":299,
+        "img":"http://localhost:3000/assets/js.png",
+        "rating":4.5
+    },
+    {
+        "id":4,
+        "name":"Reactjs",
+        "description":"ReactJS Developer",
+        "price":499,
+        "img":"http://localhost:3000/assets/js.png",
+        "rating":4.5
+    }
+]
+}
